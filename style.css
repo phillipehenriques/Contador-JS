@@ -1,0 +1,39 @@
+body {
+    background: rgb(219,142,195);
+    background: radial-gradient(circle, rgba(219,142,195,1) 0%, rgba(194,79,158,1) 32%, rgba(85,6,60,1) 77%);
+    background-repeat: no-repeat;
+    font: normal 15pt Arial;
+    color: white;
+}
+
+header {
+    background-color: none;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    background-color: #b2448f7e;
+    border-radius: 12px;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    color: white;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    background-color: none;
+    padding: 15.5px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 16rem;
+}
+
+#inter {
+    margin-top: 14rem;
+}
